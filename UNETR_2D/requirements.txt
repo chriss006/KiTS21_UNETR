@@ -1,0 +1,10 @@
+imgaug==0.4.0
+matplotlib
+numpy
+opencv_python_headless
+pandas
+Pillow
+scikit_image
+scikit_learn
+tensorflow
+tensorflow_addons
